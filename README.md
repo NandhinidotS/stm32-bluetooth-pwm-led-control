@@ -175,7 +175,7 @@ The program is written in [`STM32.C`](https://github.com/NandhinidotS/STM32-Blue
 
 ### STM32CubeIDE main.c and Terminal Output
 
-[![STM32CubeIDE main.c and Terminal Output](Terminal_MainC.jpeg)
+![STM32CubeIDE main.c and Terminal Output](Terminal_MainC.jpeg)
 
 ## Serial Output
 
