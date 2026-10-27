@@ -64,7 +64,7 @@ The HC-05 TX and RX lines are **crossed**: HC-05 TX goes to the STM32 RX pin (D2
 
 ### Project Setup
 
-[![Project Setup](Project_Setup.jpeg)
+![Project Setup](Project_Setup.jpeg)
 
 ## System Architecture
 
@@ -171,7 +171,7 @@ Phone command → HC-05 → USART1 interrupt → Ring buffer → Command logic �
 
 ## Code
 
-The program is written in [`main.c`](https://github.com/NandhinidotS/STM32-Bluetooth-PWM-LED-Control/blob/main/STM32.c). The STM32CubeIDE window with the source code and the live terminal output are shown below.
+The program is written in [`STM32.C`](https://github.com/NandhinidotS/STM32-Bluetooth-PWM-LED-Control/blob/main/STM32.c). The STM32CubeIDE window with the source code and the live terminal output are shown below.
 
 ### STM32CubeIDE main.c and Terminal Output
 
